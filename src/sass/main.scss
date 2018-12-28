@@ -1,0 +1,8 @@
+@import "./_base/normalize.scss";
+@import "../fonts/font-awesome-4.7.0/scss/font-awesome.scss";
+@import "./_base/config.scss";
+
+// 区分模块
+.p-index{
+  @import "./index.scss"
+}
